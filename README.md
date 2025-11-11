@@ -50,9 +50,9 @@ To address this:
 ## Screenshots
 
 ### 1. **Query Execution Plan**
-![shows queries](queries.png)
+![shows pipeline of one query](pipeline.png)
 ### 2. **Successful Pipeline Execution**
-![shows pipeline](pipeline.png)
+![shows queries](queries.png)
 ### 3. **Query Details View (Spark UI)**
 ![shoes explain output](explain.png)
 
