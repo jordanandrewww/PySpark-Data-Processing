@@ -43,8 +43,17 @@ To address this:
 
 ## Key Findings from Data Analysis
 - Flights with a destination of MIA had the highest average delay of about 180 minutes, with a max delay of 740 minutes
-- There were no flights in the dataset that constituted a "Minor or No Delay)
-- Most delayed flights clustered around a few major destinations, suggesting potential scheduling or congestion patterns.  
-- After optimization, Spark efficiently processed the 1 GB dataset in seconds using distributed parallelism.
+- There were no flights in the dataset that constituted a "Minor or No Delay"
+- The average delay for those classified as "severe" was about 250 minutes and the average for those classified as "moderate" was about 100 minutes
+- Most delayed flights clustered around a few major destinations, suggesting potential scheduling or congestion patterns
+
+## Screenshots
+
+### 1. **Query Execution Plan**
+
+### 2. **Successful Pipeline Execution**
+
+### 3. **Query Details View (Spark UI)**
+
 
   
